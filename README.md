@@ -14,7 +14,7 @@ https://youtu.be/XSX1z2oCDiI
 
 실제 운행중 기기 화면 저장 영상
 
-![캡처](https://github.com/user-attachments/assets/76f648c0-bba6-48f8-94d1-96783dbe9758)
+![캡처1](https://github.com/user-attachments/assets/ab343b7d-8c53-405a-816f-f94c4530e809)
 
 
 컴퓨터상의 영상1
