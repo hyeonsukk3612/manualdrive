@@ -12,19 +12,19 @@ https://youtu.be/XSX1z2oCDiI
 ![캡처](https://github.com/user-attachments/assets/12c6f703-78b2-4361-8d6b-18498e37f805)
 
 
-실제 운행중 기기 화면 저장 영상
+실제 운행중 기기 화면 저장 사진
 
 ![캡처1](https://github.com/user-attachments/assets/ab343b7d-8c53-405a-816f-f94c4530e809)
 
 
-컴퓨터상의 영상1
+컴퓨터상의 사진1
 
 ![캡처2](https://github.com/user-attachments/assets/73af4e48-7a7c-43e2-8d91-91a1b1ed1d42)
 
 
-컴퓨터상의 영상2
+컴퓨터상의 사진2
 
 ![캡처3](https://github.com/user-attachments/assets/d2a42a6c-f090-44c7-9136-4f6a4144844e)
 
 
-컴퓨터상의 영상3
+컴퓨터상의 사진3
