@@ -7,6 +7,7 @@ Ctrl+Z를 누르면 그동안 캡처된 영상을 파일로 저장합니다.
 
 https://youtu.be/XSX1z2oCDiI
 
+실제 운행중 기기 영상
 
 ![캡처](https://github.com/user-attachments/assets/12c6f703-78b2-4361-8d6b-18498e37f805)
 
